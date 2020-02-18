@@ -1,9 +1,9 @@
 # ctf-writeups
  CTF Writeups written by myself.
 
-## 0001.Akira_Homework
+主要是自己第一次没能做出来或者觉得较有意义的题目。
 
-方向：逆向
+做一个笔记方便后续查阅。
 
-这个题涉及面很广，用了TLS、文件流、多线程、“另类”的加载库等，对新手学习帮助很大，值得仔细研磨。
+wp：`题目来源/README.md`
 
