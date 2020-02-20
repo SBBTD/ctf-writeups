@@ -2,7 +2,7 @@
 
 ctftime链接：https://ctftime.org/event/975/
 
-比赛结果：![前38%](https://img.shields.io/badge/%E5%89%8D-38%25-orange) 158 th / 418 teams 
+比赛结果：![前38%](https://img.shields.io/badge/%E5%89%8D-38%25-red) 158 th / 418 teams 
 
 ## 0x01 Stego: Red King
 
