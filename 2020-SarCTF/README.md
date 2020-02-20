@@ -2,7 +2,7 @@
 
 ctftime链接：https://ctftime.org/event/975/
 
-比赛结果：![](https://img.shields.io/badge/%E5%89%8D-38%25-orange) 158 th / 418 teams 
+比赛结果：![前38%](https://img.shields.io/badge/%E5%89%8D-38%25-orange) 158 th / 418 teams 
 
 ## 0x01 Stego: Red King
 
@@ -63,3 +63,26 @@ $keepass$*2*60000*0*55b1d133aa811878a7573efbfc94107d035be43e56b22194e33a3982a985
 ```
 FLAG{bru73_p455w0rd_4ll_n16h7_l0n6}
 ```
+
+## 0x03 Stego: Invitation
+
+[task_3e55f673c10d.pdf](task_3e55f673c10d.pdf)  这个题着实体现了CTF题目的综合性之大，以及学好英语的重要性。
+
+首先打开是一堆奇怪怪的小人，明显是和实际文字有映射关系。这时候我们去Google搜索一下
+
+`cipher symbol man`等内容，就能找到一个叫[`Dancing Men Cipher`](https://www.dcode.fr/dancing-men-cipher)的玩意。
+
+然后可别一个个对比着找啊，能把视力找没，可以生成一下flag对应的图形，在密文里找，缩小范围。
+
+```
+FLAG{disco_in_Saratov}
+```
+
+## 0x04 Stego: Find Moriarty
+
+这个题主要是了解了工具`Steghide`，另外就是注意分析图片里的提示。
+
+## 0x05 后记
+
+差不多这些题比较值得记录，这次能体现出来的就是，看了wp立马就会做，但是自己做不出来，没有头绪。处在这样一个瓶颈主要是要坚持，现在就是入门了但是基础和经验不牢的时期，多积累很快就能提高。
+
