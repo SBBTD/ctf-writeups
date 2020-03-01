@@ -6,7 +6,7 @@
 
 wp：`各文件夹/README.md`
 
-Tip：题目较多wp的可以配合此[油猴脚本](https://greasyfork.org/zh-CN/scripts/387834-github-码云-md文件目录化)查看
+Tip：题目较多的wp可以配合此[油猴脚本](https://greasyfork.org/zh-CN/scripts/387834-github-码云-md文件目录化)查看
 
 ## 比赛汇总
 
