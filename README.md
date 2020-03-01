@@ -6,6 +6,8 @@
 
 wp：`各文件夹/README.md`
 
+Tip：题目较多wp的可以配合此[油猴脚本](https://greasyfork.org/zh-CN/scripts/387834-github-码云-md文件目录化)查看
+
 ## 比赛汇总
 
 tag colors: ![](https://img.shields.io/badge/前->40%25-blueviolet) ![](https://img.shields.io/badge/前->25%25-red) ![](https://img.shields.io/badge/前->10%25-orange) ![](https://img.shields.io/badge/前->1%25-yellowgreen) ![](https://img.shields.io/badge/前-1%25-brightgreen)
